@@ -213,6 +213,7 @@
 				INFOPLIST_FILE = "DockKiller-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = DockKiller;
+				SDKROOT = macosx10.5;
 			};
 			name = Debug;
 		};
@@ -228,6 +229,7 @@
 				INFOPLIST_FILE = "DockKiller-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = DockKiller;
+				SDKROOT = macosx10.5;
 			};
 			name = Release;
 		};

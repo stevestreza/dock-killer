@@ -8,7 +8,7 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface DockKillerAppDelegate : NSObject <NSApplicationDelegate> {
+@interface DockKillerAppDelegate : NSObject {
     NSWindow *window;
 }
 

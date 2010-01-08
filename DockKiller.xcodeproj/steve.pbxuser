@@ -1,10 +1,17 @@
 // !$*UTF8*$!
 {
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1652, 513}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
 	256AC3D80F4B6AC300CF3369 /* DockKillerAppDelegate.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1652, 513}}";
-			sepNavSelRange = "{314, 0}";
-			sepNavVisRange = "{0, 320}";
+			sepNavSelRange = "{216, 0}";
+			sepNavVisRange = "{0, 296}";
 		};
 	};
 	256AC3D90F4B6AC300CF3369 /* DockKillerAppDelegate.m */ = {
@@ -97,10 +104,24 @@
 			AA386F9310F7CCA60075B349 /* PBXTextBookmark */ = AA386F9310F7CCA60075B349 /* PBXTextBookmark */;
 			AA386F9410F7CCA60075B349 /* PBXTextBookmark */ = AA386F9410F7CCA60075B349 /* PBXTextBookmark */;
 			AA386F9510F7CCA60075B349 /* PBXTextBookmark */ = AA386F9510F7CCA60075B349 /* PBXTextBookmark */;
+			AA386F9810F7CCDB0075B349 /* PBXTextBookmark */ = AA386F9810F7CCDB0075B349 /* PBXTextBookmark */;
+			AA386F9910F7CCDB0075B349 /* PBXTextBookmark */ = AA386F9910F7CCDB0075B349 /* PBXTextBookmark */;
+			AA386F9A10F7CCDB0075B349 /* PBXTextBookmark */ = AA386F9A10F7CCDB0075B349 /* PBXTextBookmark */;
+			AA386F9B10F7CCDB0075B349 /* PBXTextBookmark */ = AA386F9B10F7CCDB0075B349 /* PBXTextBookmark */;
+			AA386F9E10F7CCF40075B349 /* PBXTextBookmark */ = AA386F9E10F7CCF40075B349 /* PBXTextBookmark */;
+			AA386F9F10F7CCF40075B349 /* XCBuildMessageTextBookmark */ = AA386F9F10F7CCF40075B349 /* XCBuildMessageTextBookmark */;
+			AA386FA010F7CCF40075B349 /* PBXTextBookmark */ = AA386FA010F7CCF40075B349 /* PBXTextBookmark */;
 			AAA9C0231087C0D400DB174B = AAA9C0231087C0D400DB174B /* PlistBookmark */;
 		};
 		sourceControlManager = AA198B0A10877DC700BEB93B /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1652, 513}}";
+			sepNavSelRange = "{252, 0}";
+			sepNavVisRange = "{0, 252}";
 		};
 	};
 	8D1107260486CEB800E47090 /* DockKiller */ = {
@@ -251,7 +272,7 @@
 		fRef = 256AC3D80F4B6AC300CF3369 /* DockKillerAppDelegate.h */;
 		name = "DockKillerAppDelegate.h: 16";
 		rLen = 0;
-		rLoc = 314;
+		rLoc = 290;
 		rType = 0;
 		vrLen = 320;
 		vrLoc = 0;
@@ -274,6 +295,75 @@
 		rLoc = 89;
 		rType = 0;
 		vrLen = 787;
+		vrLoc = 0;
+	};
+	AA386F9810F7CCDB0075B349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* DockKillerAppDelegate.m */;
+		name = "DockKillerAppDelegate.m: 5";
+		rLen = 0;
+		rLoc = 89;
+		rType = 0;
+		vrLen = 787;
+		vrLoc = 0;
+	};
+	AA386F9910F7CCDB0075B349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	AA386F9A10F7CCDB0075B349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 0;
+	};
+	AA386F9B10F7CCDB0075B349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 0;
+	};
+	AA386F9E10F7CCF40075B349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 252;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 0;
+	};
+	AA386F9F10F7CCF40075B349 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot find protocol declaration for 'NSApplicationDelegate'";
+		fRef = 256AC3D80F4B6AC300CF3369 /* DockKillerAppDelegate.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 10;
+		rType = 1;
+	};
+	AA386FA010F7CCF40075B349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* DockKillerAppDelegate.h */;
+		name = "DockKillerAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 216;
+		rType = 0;
+		vrLen = 296;
 		vrLoc = 0;
 	};
 	AAA9C0231087C0D400DB174B /* PlistBookmark */ = {
