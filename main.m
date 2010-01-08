@@ -3,7 +3,7 @@
 //  DockKiller
 //
 //  Created by Steve Streza on 10/15/09.
-//  Copyright 2009 Ambrosia Software. All rights reserved.
+//  Copyright 2009 Steve Streza. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
