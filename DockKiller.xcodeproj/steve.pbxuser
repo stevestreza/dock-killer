@@ -1,0 +1,291 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* DockKillerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1652, 513}}";
+			sepNavSelRange = "{314, 0}";
+			sepNavVisRange = "{0, 320}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* DockKillerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1652, 513}}";
+			sepNavSelRange = "{89, 0}";
+			sepNavVisRange = "{0, 787}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = AA198AF510877DBE00BEB93B /* DockKiller */;
+		activeTarget = 8D1107260486CEB800E47090 /* DockKiller */;
+		breakpoints = (
+			AA198B2910877F3400BEB93B /* DockKillerAppDelegate.m:18 */,
+		);
+		codeSenseManager = AA198B0B10877DC700BEB93B /* Code sense */;
+		executables = (
+			AA198AF510877DBE00BEB93B /* DockKiller */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					1362,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1474,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1434,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 284675196;
+			PBXWorkspaceStateSaveDate = 284675196;
+		};
+		perUserProjectItems = {
+			AA198B0C10877E8E00BEB93B = AA198B0C10877E8E00BEB93B /* PBXTextBookmark */;
+			AA198B3410877F6100BEB93B = AA198B3410877F6100BEB93B /* PBXTextBookmark */;
+			AA198B5010877F9700BEB93B = AA198B5010877F9700BEB93B /* PlistBookmark */;
+			AA386F8610F7CC7E0075B349 /* PlistBookmark */ = AA386F8610F7CC7E0075B349 /* PlistBookmark */;
+			AA386F8F10F7CC830075B349 /* PlistBookmark */ = AA386F8F10F7CC830075B349 /* PlistBookmark */;
+			AA386F9210F7CCA60075B349 /* PlistBookmark */ = AA386F9210F7CCA60075B349 /* PlistBookmark */;
+			AA386F9310F7CCA60075B349 /* PBXTextBookmark */ = AA386F9310F7CCA60075B349 /* PBXTextBookmark */;
+			AA386F9410F7CCA60075B349 /* PBXTextBookmark */ = AA386F9410F7CCA60075B349 /* PBXTextBookmark */;
+			AA386F9510F7CCA60075B349 /* PBXTextBookmark */ = AA386F9510F7CCA60075B349 /* PBXTextBookmark */;
+			AAA9C0231087C0D400DB174B = AAA9C0231087C0D400DB174B /* PlistBookmark */;
+		};
+		sourceControlManager = AA198B0A10877DC700BEB93B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* DockKiller */ = {
+		activeExec = 0;
+		executables = (
+			AA198AF510877DBE00BEB93B /* DockKiller */,
+		);
+	};
+	AA198AF510877DBE00BEB93B /* DockKiller */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DockKiller;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	AA198B0A10877DC700BEB93B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	AA198B0B10877DC700BEB93B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	AA198B0C10877E8E00BEB93B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = AA198B0D10877E8E00BEB93B /* NSStatusBar.h */;
+		name = "NSStatusBar.h: 16";
+		rLen = 40;
+		rLoc = 269;
+		rType = 0;
+		vrLen = 713;
+		vrLoc = 0;
+	};
+	AA198B0D10877E8E00BEB93B /* NSStatusBar.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSStatusBar.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSStatusBar.h;
+		sourceTree = "<absolute>";
+	};
+	AA198B2910877F3400BEB93B /* DockKillerAppDelegate.m:18 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 256AC3D90F4B6AC300CF3369 /* DockKillerAppDelegate.m */;
+		functionName = "-applicationDidFinishLaunching:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 18;
+		location = DockKiller;
+		modificationTime = 277315427.9984469;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	AA198B3410877F6100BEB93B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* DockKillerAppDelegate.m */;
+		name = "DockKillerAppDelegate.m: 16";
+		rLen = 0;
+		rLoc = 367;
+		rType = 0;
+		vrLen = 787;
+		vrLoc = 0;
+	};
+	AA198B5010877F9700BEB93B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* DockKiller-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSUIElement,
+		);
+		name = "/Volumes/Content/Users/steve/Documents/DockKiller/DockKiller-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	AA386F8610F7CC7E0075B349 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* DockKiller-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSUIElement,
+		);
+		name = "/Volumes/Content/Users/steve/Documents/DockKiller/DockKiller-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	AA386F8F10F7CC830075B349 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* DockKiller-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSUIElement,
+		);
+		name = "/Volumes/Content/Users/steve/Documents/DockKiller/DockKiller-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	AA386F9210F7CCA60075B349 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* DockKiller-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSUIElement,
+		);
+		name = "/Volumes/Content/Users/steve/Documents/DockKiller/DockKiller-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	AA386F9310F7CCA60075B349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* DockKillerAppDelegate.h */;
+		name = "DockKillerAppDelegate.h: 16";
+		rLen = 0;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 0;
+	};
+	AA386F9410F7CCA60075B349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* DockKillerAppDelegate.m */;
+		name = "DockKillerAppDelegate.m: 16";
+		rLen = 0;
+		rLoc = 367;
+		rType = 0;
+		vrLen = 787;
+		vrLoc = 0;
+	};
+	AA386F9510F7CCA60075B349 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* DockKillerAppDelegate.m */;
+		name = "DockKillerAppDelegate.m: 5";
+		rLen = 0;
+		rLoc = 89;
+		rType = 0;
+		vrLen = 787;
+		vrLoc = 0;
+	};
+	AAA9C0231087C0D400DB174B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* DockKiller-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSUIElement,
+		);
+		name = "/Volumes/Content/Users/steve/Documents/DockKiller/DockKiller-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}
